@@ -1,2 +1,2 @@
-# class-projrect
+# class-project
 this is my first repos
